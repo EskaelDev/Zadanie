@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Sente": {
+      "commandName": "Project",
+      "commandLineArgs": "../../../input/"
+    }
+  }
+}
